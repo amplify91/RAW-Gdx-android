@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="sprite_tiles" tilewidth="32" tileheight="32">
+  <image source="../sprite_tiles.png" width="1024" height="1024"/>
+  <tile id="0">
+   <properties>
+    <property name="TileType" value="Hajimemashute"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="TileType" value="52"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmEEOhSAMRIvc/84/Ltz8KEyl1IHMS4gbnfYFImg1s2I4B3hfdWRGcNYrhrswe5ygLuweKPKYizzamV94HM6BZLLOB7qerkxWD2+mPN7XjH52NY87iu3hcWWu7lH/rlnIo52X7XHVROtWYJh964H2iGZmgvT75v3zxXwgeOeM1QNlZC0yIw8u5MGFPLiQBxfy4EIeXMgjpvasMdqXp+dIIr4tn7Iyiax9l5XlJg8sayePDJfIOk85q83JDh69vSODmR6Ze0qGx6wzBNJDRE4v++15qffPd+RM1vLw9jrSiyfLW+8Ha0kDLA==
+  </data>
+ </layer>
+</map>
