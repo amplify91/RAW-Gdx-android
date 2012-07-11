@@ -4,7 +4,7 @@
   <image source="../sprite_tiles.png" width="1024" height="1024"/>
   <tile id="0">
    <properties>
-    <property name="TileType" value="Hajimemashute"/>
+    <property name="TileType" value="0"/>
    </properties>
   </tile>
   <tile id="2">
@@ -15,7 +15,7 @@
  </tileset>
  <layer name="Tile Layer 1" width="50" height="50">
   <data encoding="base64" compression="zlib">
-   eJztmAsKhDAMRKve/87LwgpSuppJJtMiGSiINJ+nrU08WmsHOCyyzmPpG2/7Det8Ji9LZzwryw74VfKgcRAOpYqD6zeqDI5Z+3wHh8Xnqu/Dup5On6tyoD7fxqE6JyP+/tn2HHf2LC72c9manWOUyxMXej+izJpExdHvC7aKwxdHzYHGtPYdM76tGb2RmsOSryen1c66qw/knXnOj6f4SmXVIGqOUfzVag6PGOtrJY7+2utjlkbfvoh9JA/mmkDPIKZmcKhrGo+tpb7IUAYHo/Zh5KKwZas4iiNDxTGXA+k10BHNC8kZsUdjR3hm1v/MdRV9xsVRHFZfyH6LcmT/M1H1AsVh8/EGDmWfrOBQ9GWZ+8PSI3vqpbt50ZrsjgPNNZIL4guN9wF/YARc
+   eJztz0EKACAIRcGg+9+5G9RCoV/MgFv1jQEAAAAAAFTM2w800ZFFRxYdWXRk0ZFFRxYdWXRk+a1jHqa6f3ejw+n/l2YBi5oBAA==
   </data>
  </layer>
 </map>
