@@ -15,6 +15,6 @@ public class MainActivity extends AndroidApplication {
         cfg.useAccelerometer = false;
         cfg.useCompass = false;
         
-        initialize(new Game(), cfg);
+        initialize(new GameRAW(), cfg);
     }
 }
